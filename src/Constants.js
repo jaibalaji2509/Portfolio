@@ -23,7 +23,7 @@ export const PROJECTS = [
     technologyUsed: "React, Javascript, Redux",
     description:
       "The process of planning primarily deals with selecting the appropriate policies and procedures in order to achieve the objectives of the project. Scheduling converts the project action plans for scope, time cost and quality into an operating timetable.",
-    url: "https://travlwell.com/",
+    url: "https://ps.kpost.in/",
   },
   // {
   //   image: COAST,
