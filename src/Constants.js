@@ -20,7 +20,7 @@ export const PROJECTS = [
   {
     image: TRAVELWELL,
     name: "Planning and Scheduling",
-    technologyUsed: "React, Javascript, Redux",
+    technologyUsed: "React, Javascript, Bootstrap, Redux",
     description:
       "The process of planning primarily deals with selecting the appropriate policies and procedures in order to achieve the objectives of the project. Scheduling converts the project action plans for scope, time cost and quality into an operating timetable.",
     url: "https://ps.kpost.in/",
