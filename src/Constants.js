@@ -6,7 +6,7 @@ import GUAMEDIA from "./Assets/Projects/guamedia.jpg";
 import HSP from "./Assets/Projects/hsp.png";
 import COSMOS from "./Assets/Projects/kposty.png";
 import TECHSPEC from "./Assets/Projects/techspec.png";
-import TRAVELWELL from "./Assets/Projects/travelwell.png";
+import TRAVELWELL from "./Assets/Projects/business-background-design_1300-348.webp";
 
 export const PROJECTS = [
   {
@@ -17,14 +17,14 @@ export const PROJECTS = [
       "KSmacc CLOSED communication for all types of institutions like Clubs, Associations and Societies whether they are multinational or big or small.",
     url: "https://ksmacc.in/",
   },
-  // {
-  //   image: TRAVELWELL,
-  //   name: "travlwell.com",
-  //   technologyUsed: "Shopify, React, typescript, polaris, GraphQL",
-  //   description:
-  //     "Custom Luggage Tags and Passport Holders engraved with everywhere you've traveled and everywhere you will travel in the future.",
-  //   url: "https://travlwell.com/",
-  // },
+  {
+    image: TRAVELWELL,
+    name: "Planning and Scheduling",
+    technologyUsed: "React, Javascript, Redux",
+    description:
+      "The process of planning primarily deals with selecting the appropriate policies and procedures in order to achieve the objectives of the project. Scheduling converts the project action plans for scope, time cost and quality into an operating timetable.",
+    url: "https://travlwell.com/",
+  },
   // {
   //   image: COAST,
   //   name: "Coast",
